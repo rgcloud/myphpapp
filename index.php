@@ -6,7 +6,7 @@
 
 <?php
 
-echo "Hellow VB)";
+echo "Hi Every One :-)";
 
 ?>
 
