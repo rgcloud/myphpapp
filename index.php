@@ -6,7 +6,7 @@
 
 <?php
 
-echo "Hi Vb computer :-) This is a new code";
+echo "Hi Irfan :-) This is a new code";
 
 ?>
 
