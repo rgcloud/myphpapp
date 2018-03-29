@@ -6,7 +6,7 @@
 
 <?php
 
-echo "<center><h2>Happy Ram Navami Ram  :-)</h2></center>";
+echo "<center><h2>Version 1.0  :-)</h2></center>";
 
 ?>
 
