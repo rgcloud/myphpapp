@@ -6,7 +6,7 @@
 
 <?php
 
-echo "<center><h2>Hi Vikas How have you been Hi </h2></center>";
+echo "<center><h2>Hi Everyone How have you been Hi </h2></center>";
 
 ?>
 
